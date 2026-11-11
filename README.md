@@ -11,7 +11,7 @@
 
 An open-source tool that extends the local client-side configuration of the Wand app and improves its UX.
 
-> **This project has no official downloads and no official video tutorials.** GitHub releases contain notes only, never `.exe` files. Scammers use the project's name for fake tutorials and put malware or password stealers in the video descriptions. An executable or archive from a video, a website or a mirror did not come from this project, and we are not responsible for it. The only official source is this repository. Look-alike forks and accounts are not ours.
+> **This project has no officials downloads and no official video tutorials.** GitHub releases contain notes only, never `.exe` files. Scammers use the project's name for fake tutorials and put malware or password stealers in the video descriptions. An executable or archive from a video, a website or a mirror did not come from this project, and we are not responsible for it. The only official source is this repository. Look-alike forks and accounts are not ours.
 
 ## Network and privacy
 
